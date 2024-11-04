@@ -1,0 +1,6 @@
+export * from "./histogram-chart"
+export * from "./histogram-header"
+export * from "./histogram"
+export * from "../table/utils"
+export * from "./use-histogram-data"
+export * from "./types"
